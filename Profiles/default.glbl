@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Pria / Wanita</description>
+      <initValue>'Pria'</initValue>
+      <name>Jenis_Kelamin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Belum_Menikah / Menikah</description>
+      <initValue>'Menikah'</initValue>
+      <name>Marital_Status</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
